@@ -24,7 +24,7 @@
 
 ## 🧐 About <a name = "about"></a>
 <h3 align="center"> 
-This project completes the SQL quizzes from https://sqlzoo.net/wiki/SQL_Tutorial which lets you build and run queries against existing tables. Each tutorial will show you a table and then have you run queries against it to answer specific questions. The queries are quite simple at first, getting more challenging towards the end.
+This project is a collection of solutions for the first 9 SQL quizzes from https://sqlzoo.net/wiki/SQL_Tutorial which lets you build and run queries against existing tables. Each tutorial will show you a table and then have you run queries against it to answer specific questions. The queries are quite simple at first, getting more challenging towards the end.
 </h3>
 
 ---
