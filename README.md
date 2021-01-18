@@ -31,7 +31,7 @@ This project is a collection of solutions for the first 9 SQL quizzes from https
 
 ## 🔧 Built with<a name = "built_using"></a>
 
-- [SQL) (https://www.sql-lang.org/) - SQL
+- SQL
 
 ### 🛠 Installing <a name = "installing"></a>
 
@@ -43,7 +43,7 @@ This project is a collection of solutions for the first 9 SQL quizzes from https
 
 - navigate to the file(s) of interest
 
-- Leave a star
+- Don't just fork, Leave a star
 
 
 
